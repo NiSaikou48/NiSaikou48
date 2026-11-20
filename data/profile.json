@@ -1,0 +1,63 @@
+{
+  "profile": {
+    "name": "Arief M Prasetyo",
+    "handle": "NiSaikou48",
+    "role": "Systems Architect & Fullstack Software Engineer",
+    "tagline": "Crafting high-throughput distributed systems, modular web architectures, and resilient enterprise applications.",
+    "status": "Engineering High-Performance Systems",
+    "location": "Indonesia",
+    "contact": {
+      "github": "https://github.com/NiSaikou48",
+      "website": "https://nisaikou.me",
+      "email": "contact@nisaikou.me",
+      "linkedin": "https://linkedin.com/in/nisaikou48"
+    }
+  },
+  "metrics": {
+    "latencyTarget": "< 50ms INP",
+    "codeQuality": "100% Strict Type & Modular Seams",
+    "maxFileThreshold": "< 350 LOC / File",
+    "uptimeStandard": "99.98% High Availability"
+  },
+  "stack": [
+    {
+      "category": "Languages & Core",
+      "skills": ["TypeScript", "PHP 8.3+", "Python", "SQL (PostgreSQL / MySQL)", "Go", "Modern JavaScript"]
+    },
+    {
+      "category": "Frameworks & Runtimes",
+      "skills": ["Laravel 11", "Next.js 15", "Node.js", "React 19", "Tailwind CSS", "FastAPI"]
+    },
+    {
+      "category": "Infrastructure & Data",
+      "skills": ["PostgreSQL", "MySQL", "Redis", "Supabase", "Docker", "Linux System Administration"]
+    },
+    {
+      "category": "Engineering Discipline",
+      "skills": ["Clean Modular Architecture", "TDD & Automated CI/CD", "OWASP Security Auditing", "Database Query Optimization"]
+    }
+  ],
+  "featuredProjects": [
+    {
+      "title": "Titan POS & Enterprise Inventory Core",
+      "badge": "PRODUCTION",
+      "description": "High-throughput retail point-of-sale engine featuring dual-engine database replication, sub-second barcode dispatch, and offline-first queue persistence.",
+      "tech": ["PHP / Laravel", "MySQL", "Redis", "Native WebSocket", "ESC/POS Thermal Protocol"],
+      "metrics": "250+ tx/min | < 12ms latency"
+    },
+    {
+      "title": "Pulse Telemetry & Service Mesh Dashboard",
+      "badge": "ACTIVE CORE",
+      "description": "Real-time telemetry cockpit and state synchronization fabric designed for high-concurrency microservices monitoring and automated failover detection.",
+      "tech": ["TypeScript", "Next.js", "Tailwind CSS", "PostgreSQL", "Server-Sent Events"],
+      "metrics": "Sub-50ms INP | 60fps telemetry graph"
+    },
+    {
+      "title": "Civic Governance & Transparent Ledger System",
+      "badge": "OPEN PLATFORM",
+      "description": "Distributed community administration portal featuring two-way spreadsheet ledger synchronization, verifiable financial audits, and zero-downtime document streaming.",
+      "tech": ["Modular PHP", "Google Sheets API v4", "MySQL", "Tailwind CSS"],
+      "metrics": "100% Audit Trails | 0 Data Drift"
+    }
+  ]
+}

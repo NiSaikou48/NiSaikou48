@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960" height="308" viewBox="0 0 960 308" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="958" height="306" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+
+  <text x="32" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="16" font-weight="700" fill="#0F172A" letter-spacing="-0.3">
+    ENGINEERING STACK &amp; CAPABILITY MATRIX
+  </text>
+  <text x="928" y="38" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#64748B">
+    STANDARDS-ALIGNED
+  </text>
+  <line x1="32" y1="48" x2="928" y2="48" stroke="#E2E8F0" stroke-width="1"/>
+
+  
+    <g transform="translate(32, 64)">
+      <rect x="0" y="0" width="442" height="108" rx="10" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+      <text x="18" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" font-weight="700" fill="#0284C7" letter-spacing="0.5">
+        LANGUAGES &amp; CORE
+      </text>
+      <text x="18" y="56" width="406" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#475569">
+        <tspan fill="#0F172A" font-weight="500">TypeScript</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">PHP 8.3+</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Python</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">SQL (PostgreSQL / MySQL)</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Go</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Modern JavaScript</tspan>
+      </text>
+    </g>
+    
+    <g transform="translate(486, 64)">
+      <rect x="0" y="0" width="442" height="108" rx="10" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+      <text x="18" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" font-weight="700" fill="#0284C7" letter-spacing="0.5">
+        FRAMEWORKS &amp; RUNTIMES
+      </text>
+      <text x="18" y="56" width="406" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#475569">
+        <tspan fill="#0F172A" font-weight="500">Laravel 11</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Next.js 15</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Node.js</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">React 19</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Tailwind CSS</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">FastAPI</tspan>
+      </text>
+    </g>
+    
+    <g transform="translate(32, 180)">
+      <rect x="0" y="0" width="442" height="108" rx="10" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+      <text x="18" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" font-weight="700" fill="#0284C7" letter-spacing="0.5">
+        INFRASTRUCTURE &amp; DATA
+      </text>
+      <text x="18" y="56" width="406" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#475569">
+        <tspan fill="#0F172A" font-weight="500">PostgreSQL</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">MySQL</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Redis</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Supabase</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Docker</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Linux System Administration</tspan>
+      </text>
+    </g>
+    
+    <g transform="translate(486, 180)">
+      <rect x="0" y="0" width="442" height="108" rx="10" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+      <text x="18" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" font-weight="700" fill="#0284C7" letter-spacing="0.5">
+        ENGINEERING DISCIPLINE
+      </text>
+      <text x="18" y="56" width="406" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#475569">
+        <tspan fill="#0F172A" font-weight="500">Clean Modular Architecture</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">TDD &amp; Automated CI/CD</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">OWASP Security Auditing</tspan> <tspan fill="#64748B">/</tspan> <tspan fill="#0F172A" font-weight="500">Database Query Optimization</tspan>
+      </text>
+    </g>
+    
+</svg>
