@@ -39,6 +39,7 @@
         <li><b>Desain Grafis &amp; Vektor:</b> Merancang identitas visual merek, ilustrasi, media publikasi cetak/digital, serta aset branding menggunakan Adobe Illustrator, Photoshop, Affinity Designer, dan Figma.</li>
         <li><b>Media Editorial Digital:</b> Founder dan content creator di <b><a href="https://nisaikou.me">nisaikou.me</a></b>, memadukan kurasi berita pop-culture dengan optimasi struktur SEO/AEO.</li>
         <li><b>Software Perangkat Lunak &amp; Enterprise:</b> Manajemen administrasi tingkat tinggi, pengolahan dokumen bisnis (Word), presentasi eksekutif (PowerPoint), komputasi data formula lanjutan (Excel / Spreadsheets), serta pemodelan Enterprise Architecture.</li>
+        <li><b>Workflow &amp; AI Support:</b> Mengoptimalkan efisiensi riset, drafting editorial, dan akselerasi ideasi menggunakan Claude, Antigravity, dan Muse AI.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -87,6 +88,28 @@
 
 ---
 
+### My Support &amp; Creative Intelligence
+
+Platform dan ekosistem cerdas yang mendukung efisiensi alur kerja riset editorial, akselerasi konten, dan perancangan sistem:
+
+<div align="center">
+<p>
+  <a href="https://claude.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  </a>
+  &nbsp;
+  <a href="https://antigravity.google" target="_blank">
+    <img src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge&logo=google&logoColor=38BDF8" alt="Antigravity" />
+  </a>
+  &nbsp;
+  <a href="https://muse.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Muse_AI-4F46E5?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Muse AI" />
+  </a>
+</p>
+</div>
+
+---
+
 ### Bidang Kompetensi &amp; Output Nyata
 
 | Bidang Pekerjaan | Perangkat Lunak | Contoh Penerapan &amp; Hasil Kerja |
@@ -96,6 +119,7 @@
 | **Media Web &amp; Portal** | nisaikou.me, WordPress, HTML5/CSS3, PHP, MySQL | Manajemen konten portal berita/blog, kurasi artikel editorial, penerapan struktur SEO/AEO organik |
 | **Dokumen &amp; Office Suite** | MS Word, MS PowerPoint, MS Excel, Spreadsheets | Penyusunan laporan pertanggungjawaban (LPJ), slide dek presentasi bisnis formal, tabel rekap data formula kompleks |
 | **Sistem &amp; Strategi Bisnis** | Enterprise Architecture, Marketing Strategy | Perancangan arsitektur proses bisnis, pemetaan kebutuhan sistem informasi, strategi positioning dan promosi |
+| **Creative Support &amp; AI** | Claude, Antigravity, Muse AI | Akselerasi riset editorial nisaikou.me, automasi perancangan sistem, analisis dan kurasi video cerdas |
 
 ---
 
