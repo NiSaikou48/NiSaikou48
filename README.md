@@ -1,82 +1,83 @@
 <div align="center">
 
-<!-- Top Banner (Aesthetic Lo-fi Creative Workstation) -->
-<img src="assets/header-banner.svg" alt="Arief M Prasetyo Studio" width="100%">
+<!-- Top Banner: Aesthetic Lo-fi Studio Workstation -->
+<img src="assets/header-banner.svg" alt="Arief M Prasetyo Creative Studio" width="100%">
 
 <br/><br/>
 
-<!-- Main Greeting -->
-# Halo! 🙏 Saya Arief M Prasetyo
+<!-- Main Heading -->
+# Halo! Saya Arief M Prasetyo
 
 <p align="center">
   <b>Digital Content Creator &bull; Video &amp; Motion Editor &bull; Graphic Designer &bull; Systems Information &amp; Marketing Strategist</b>
 </p>
 
 <p align="center">
-  <i>Perpaduan antara lulusan <b>Sarjana Sistem Informasi</b> dan latar belakang <b>SMK Manajemen Pemasaran</b>.<br/>
-  Fokus pada produksi media kreatif digital, kurasi editorial di <b><a href="https://nisaikou.me">nisaikou.me</a></b>, desain visual grafis, serta otomatisasi workflow dokumen enterprise.</i>
+  <i>Lulusan <b>Sarjana Sistem Informasi</b> dengan fondasi kompetensi <b>SMK Manajemen Pemasaran</b>.<br/>
+  Mengintegrasikan estetika media visual, kurasi editorial di <b><a href="https://nisaikou.me">nisaikou.me</a></b>, desain grafis vektor, dan efisiensi workflow software enterprise.</i>
+</p>
+
+<p align="center">
+  <a href="https://nisaikou.me"><img src="https://img.shields.io/badge/Website-nisaikou.me-4338CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:contact@nisaikou.me"><img src="https://img.shields.io/badge/Email-contact@nisaikou.me-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/NiSaikou48"><img src="https://img.shields.io/badge/GitHub-NiSaikou48-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/nisaikou48"><img src="https://img.shields.io/badge/LinkedIn-Arief%20M%20Prasetyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 </div>
 
 ---
 
-### 💫 About Me
+### Profil &amp; Latar Belakang
 
 <table>
   <tr>
     <td width="65%" valign="top">
       <ul>
-        <li>🎓 <b>Edukasi &amp; Latar Belakang:</b> Lulusan Sistem Informasi dengan pemahaman mendalam tentang arsitektur perangkat lunak, serta fondasi kuat dari SMK Manajemen Pemasaran untuk strategi audiens &amp; branding.</li>
-        <li>🎬 <b>Video Editing &amp; Motion Design:</b> Mengolah video sinematik, konten media sosial dinamis, dan efek visual menggunakan <i>Premiere Pro, After Effects, CapCut</i>, dan <i>DaVinci Resolve</i>.</li>
-        <li>🎨 <b>Desain Grafis &amp; Vektor:</b> Merancang ilustrasi, logo, visual branding, dan layout promosi dengan <i>Adobe Illustrator, Photoshop</i>, dan <i>Affinity Designer</i>.</li>
-        <li>🌐 <b>Digital Publication:</b> Founder &amp; kreator di balik portal media <b><a href="https://nisaikou.me">nisaikou.me</a></b> (konten editorial, optimasi SEO/AEO, dan tren pop-culture).</li>
-        <li>📊 <b>Office &amp; Enterprise Software:</b> Manajemen dokumen &amp; data analitik tingkat lanjut menggunakan <i>Word, PowerPoint, Excel / Spreadsheets</i>, serta pemodelan <i>Enterprise Architecture</i>.</li>
+        <li><b>Latar Belakang Pendidikan:</b> Lulusan Sistem Informasi yang menguasai analisis sistem dan arsitektur data, diperkuat dasar SMK Manajemen Pemasaran untuk riset pasar, komunikasi audiens, dan positioning produk.</li>
+        <li><b>Video Editing &amp; Motion Design:</b> Memproduksi video promosi komersial, konten media sosial dinamis, color grading, dan motion title menggunakan Premiere Pro, After Effects, CapCut, dan DaVinci Resolve.</li>
+        <li><b>Desain Grafis &amp; Vektor:</b> Merancang identitas visual merek, ilustrasi, media publikasi cetak/digital, serta aset branding menggunakan Adobe Illustrator, Photoshop, Affinity Designer, dan Figma.</li>
+        <li><b>Media Editorial Digital:</b> Founder dan content creator di <b><a href="https://nisaikou.me">nisaikou.me</a></b>, memadukan kurasi berita pop-culture dengan optimasi struktur SEO/AEO.</li>
+        <li><b>Software Perangkat Lunak &amp; Enterprise:</b> Manajemen administrasi tingkat tinggi, pengolahan dokumen bisnis (Word), presentasi eksekutif (PowerPoint), komputasi data formula lanjutan (Excel / Spreadsheets), serta pemodelan Enterprise Architecture.</li>
       </ul>
-      <br/>
-      <b>📫 Hubungi Saya:</b><br/>
-      <a href="https://nisaikou.me"><img src="https://img.shields.io/badge/Website-nisaikou.me-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-      <a href="mailto:contact@nisaikou.me"><img src="https://img.shields.io/badge/Email-contact@nisaikou.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-      <a href="https://github.com/NiSaikou48"><img src="https://img.shields.io/badge/GitHub-NiSaikou48-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-      <a href="https://linkedin.com/in/nisaikou48"><img src="https://img.shields.io/badge/LinkedIn-Arief%20M%20Prasetyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/creator-illustration.svg" alt="Creator at Desk" width="100%">
+      <img src="assets/creator-illustration.svg" alt="Ilustrasi Meja Kerja Kreator" width="100%">
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧰 Creative &amp; Software Arsenal
+### Creative Arsenal &amp; Software Suite
 
 <div align="center">
 
-<!-- Visual Badges Matrix -->
 <p>
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-EA77FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=EA77FF" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-0D1117?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Affinity_Designer-1B72BA?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word" />
-  <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Sheets" />
-  <img src="https://img.shields.io/badge/Enterprise_Architecture-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Enterprise Architecture" />
-  <img src="https://img.shields.io/badge/nisaikou.me-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="nisaikou.me" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-185ABD?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word" />
+  <img src="https://img.shields.io/badge/PowerPoint-C43E1C?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
+  <img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Sheets" />
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8" alt="Enterprise Architecture" />
+  <img src="https://img.shields.io/badge/nisaikou.me-4338CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="nisaikou.me" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
@@ -86,30 +87,30 @@
 
 ---
 
-### 🛠️ Kategori Keahlian &amp; Bidang Pekerjaan:
+### Bidang Kompetensi &amp; Output Nyata
 
-| Bidang Kreatif &amp; Teknis | Perangkat Lunak &amp; Tools | Output &amp; Penerapan Kerja |
+| Bidang Pekerjaan | Perangkat Lunak | Contoh Penerapan &amp; Hasil Kerja |
 | :--- | :--- | :--- |
-| 🎬 **Video Editing &amp; Motion** | Premiere Pro, After Effects, CapCut, DaVinci Resolve | Video promosi, reels/shorts viral, color grading, motion title, editing alur cerita |
-| 🎨 **Desain Grafis &amp; Vektor** | Illustrator, Photoshop, Affinity Designer, Figma | Aset banner web, poster event, identitas brand, ilustrasi vektor, UI mockup |
-| 🌐 **Media Portal &amp; Web** | nisaikou.me, WordPress, HTML5/CSS3, PHP, MySQL | Manajemen konten artikel, kurasi berita, integrasi visual, optimasi SEO on-page |
-| 📑 **Office &amp; Dokumentasi** | MS Word, PowerPoint, Excel, Google Workspace | Pembuatan modul LPJ, slide presentasi bisnis elegan, data tabular formula lanjutan |
-| 🏛️ **Sistem &amp; Pemasaran** | Enterprise Architecture, Marketing Strategy | Analisis proses bisnis, pemetaan kebutuhan sistem informasi, strategi riset pasar |
+| **Video Editing &amp; Motion** | Premiere Pro, After Effects, CapCut, DaVinci Resolve | Video promosi produk, motion reels/shorts ber-engagement tinggi, video dokumentasi, color grading sinematik |
+| **Desain Grafis &amp; Vektor** | Illustrator, Photoshop, Affinity Designer, Figma | Desain identitas visual merek, poster promosi, spanduk, aset media sosial, ilustrasi vektor resolusi tinggi |
+| **Media Web &amp; Portal** | nisaikou.me, WordPress, HTML5/CSS3, PHP, MySQL | Manajemen konten portal berita/blog, kurasi artikel editorial, penerapan struktur SEO/AEO organik |
+| **Dokumen &amp; Office Suite** | MS Word, MS PowerPoint, MS Excel, Spreadsheets | Penyusunan laporan pertanggungjawaban (LPJ), slide dek presentasi bisnis formal, tabel rekap data formula kompleks |
+| **Sistem &amp; Strategi Bisnis** | Enterprise Architecture, Marketing Strategy | Perancangan arsitektur proses bisnis, pemetaan kebutuhan sistem informasi, strategi positioning dan promosi |
 
 ---
 
 <div align="center">
 
-### ☕ Connect &amp; Support
+### Kunjungi Media Portal Saya
 
 <p>
   <a href="https://nisaikou.me">
-    <img src="https://img.shields.io/badge/Kunjungi_Website-nisaikou.me-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Kunjungi nisaikou.me" />
+    <img src="https://img.shields.io/badge/Buka_Website-nisaikou.me-4338CA?style=for-the-badge&logo=safari&logoColor=white" alt="Buka nisaikou.me" />
   </a>
 </p>
 
 <!-- Scenic Japanese Landscape / Torii Gate Footer Banner -->
-<img src="assets/scenic-footer.svg" alt="Japanese Scenic Landscape" width="100%">
+<img src="assets/scenic-footer.svg" alt="Pemandangan Lanskap Jepang" width="100%">
 
 <br/>
 

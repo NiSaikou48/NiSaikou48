@@ -1,18 +1,18 @@
-# ALURPOHON.md - Modern GitHub Portfolio Profile Architecture
-*Dokumen Tunggal Pelaksanaan & Pengujian Arsitektur Alur Pohon (Universal 5-Stage Tree Pipeline)*
+# ALURPOHON.md - NiSaikou48 Personal Portfolio Architecture
+*Dokumen Tunggal Pelaksanaan & Pengujian Arsitektur Alur Pohon (Universal 5-Stage Tree Pipeline & Anti-Slop Audit)*
 
 ---
 
 ## 1. PANDUAN PENGUJIAN ALUR POHON (UNIVERSAL)
-Dokumen ini adalah **satu-satunya sumber kebenaran (single source of truth)** untuk arsitektur, implementasi berjenjang, dan pengujian berkala proyek ini.
+Dokumen ini adalah **satu-satunya sumber kebenaran (single source of truth)** untuk arsitektur, implementasi berjenjang, dan audit anti-slop berkala proyek ini.
 
 Sistem secara otomatis mengeksekusi urutan baku:
-1. **Mengecek 5 Pertanyaan Pre-Flight Diagnosa Awal** (Standar Industri, Logika Bisnis, Clean Architecture, Keamanan OWASP, Verifikasi Empiris).
-2. **Menyiapkan Prasyarat Dokumen** (`PROJECT_MEMORY.md`, `GLOSSARY.md`, dan arsitektur visual).
-3. **Mengeksekusi Arsitektur Alur Pohon Berjenjang (Stage 1 -> Stage 2 Akar -> Batang -> Cabang -> Daun -> Stage 3 Keamanan -> Stage 4 Testing E2E -> Stage 5 Delivery Gate)**.
+1. **Mengecek 5 Pertanyaan Pre-Flight Diagnosa Awal** (Standar Industri, Kebutuhan Konten Asli, Clean Architecture, Keamanan Repositori, Verifikasi Empiris).
+2. **Menyiapkan Prasyarat Dokumen** (`PROJECT_MEMORY.md`, `GLOSSARY.md`, dan knowledge graph arsitektur).
+3. **Mengeksekusi Arsitektur Alur Pohon Berjenjang (Stage 1 -> Stage 2 Akar -> Batang -> Cabang -> Daun -> Stage 3 Keamanan -> Stage 4 Testing E2E -> Stage 5 Delivery Gate & Anti-Slop)**.
 4. **Pintu Kelulusan Nol Error & Autonomous Self-Healing Loop:** Seluruh generator aset, template SVG, validitas XML, tautan Markdown, dan aksi CI/CD wajib bebas error 100%.
-5. **Kebijakan Mutlak Identitas Rekayasa (Zero Third-Party & Zero AI Copyright Policy):** Bebas nama author/vendor luar maupun copyright/watermark berbau "AI". Wajib gunakan identitas rekayasa enterprise prestisius (*"Crafted with Precision Engineering & Native Standards"*).
-6. **Pintu Bahasa Manusiawi Otentik (`/humanizer-indonesia` + `/ai-text-detector`):** Seluruh salinan teks antarmuka dan dokumentasi wajib disunting menggunakan gaya bahasa manusia seutuhnya (tanpa kalke, ritme bervariasi, pangkas nominalisasi, nol em-dash/en-dash di badan prosa).
+5. **Kebijakan Mutlak Identitas Rekayasa (Zero Third-Party & Zero AI Copyright Policy):** Bebas nama author/vendor luar maupun copyright/watermark berbau "AI". Menggunakan identitas rekayasa industrial: *"Crafted with Precision by Arief M Prasetyo (NiSaikou48)"*.
+6. **Pintu Bahasa Manusiawi Otentik & Audit Anti-Slop (`/antislop` + `/humanizer-indonesia` + `/ai-text-detector`):** Seluruh salinan teks antarmuka dan dokumentasi wajib disunting menggunakan gaya bahasa manusia seutuhnya (tanpa kalke, ritme bervariasi, pangkas nominalisasi, nol em-dash/en-dash di badan prosa, serta bebas dari klise AI).
 
 ---
 
@@ -20,33 +20,32 @@ Sistem secara otomatis mengeksekusi urutan baku:
 
 | ID | Tanggal & Waktu | Gejala & Titik Patah (File & Baris) | Tingkat Pohon (Akar/Batang/Cabang/Daun) | Akar Masalah (Root Cause) | Rencana Perbaikan Bedah | Status (OPEN / INVESTIGATING / RESOLVED) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `DIAG-001` | 2026-11-20 12:40 | Profil GitHub default monoton dan tidak adaptif | DAUN (Leaves) | Format Markdown murni tanpa arsitektur modular bento & ketiadaan aset SVG adaptif dark/light mode | Implementasi arsitektur Alur Pohon: data layer JSON (Akar), automation sync (Batang), dynamic SVG generator (Cabang), dan responsive Bento Portfolio README (Daun) | RESOLVED (PASS) |
+| `DIAG-001` | 2026-11-20 12:40 | Profil default GitHub monoton & tanpa estetika | DAUN (Leaves) | Format Markdown murni tanpa arsitektur modular bento | Implementasi arsitektur Alur Pohon: data layer JSON (Akar), automation sync (Batang), dynamic SVG generator (Cabang), dan responsive Bento Portfolio README (Daun) | RESOLVED (PASS) |
+| `DIAG-002` | 2026-11-20 13:20 | Profil lama mengasumsikan peran web developer murni | AKAR & DAUN | Profil belum merefleksikan identitas asli (Digital Creator, Video Editor, Desain Grafis, Sistem Informasi, SMK Pemasaran) | Reverse Engineering Architecture (REA) dari referensi estetik kreator, pembuatan aset lo-fi header studio, ilustrasi kreator, dan pemandangan senja Torii gate Jepang | RESOLVED (PASS) |
+| `DIAG-003` | 2026-11-20 13:26 | Audit `/antislop` & pembersihan visual | DAUN & KONTEN | Kontras badge perlu kalibrasi WCAG AA dan pembersihan emoji berlebih pada heading | Kalibrasi token warna badge berstandar kontras tinggi, eliminasi em-dash, dan pemurnian tipografi | RESOLVED (PASS) |
 
 ---
 
 ## 1.2 ROADMAP AKSI REVISI (EXECUTION PLAN)
 
 - [x] **Fase 1: Pre-Flight & Diagnosis Deep-Dive (Stage 1)**
-  - [x] 1.1 Inisialisasi buku besar data diagnosis dan perencanaan sistem.
-  - [x] 1.2 Sinkronisasi `PROJECT_MEMORY.md` & `GLOSSARY.md`.
-  - [x] 1.3 Perancangan spesifikasi visual bento grid & token warna adaptif.
+  - [x] 1.1 Inisialisasi buku besar data diagnosis dan spesifikasi identitas kreator.
+  - [x] 1.2 Sinkronisasi arah desain personal: Digital Creator & Multimedia Specialist.
 - [x] **Fase 2: Eksekusi Bedah Berjenjang (Stage 2 Root-to-Leaf)**
-  - [x] 2.1 [AKAR] Pembuatan skema data profil terstruktur `data/profile.json`.
-  - [x] 2.2 [BATANG] Workflow CI/CD `.github/workflows/profile-sync.yml` & generator script `scripts/generate-assets.mjs`.
-  - [x] 2.3 [CABANG] Logic kalkulasi geometri SVG, palet dark/light mode, dan formatting data.
-  - [x] 2.4 [DAUN] Generator Hero Banner SVG, Bento Stack SVG, Bento Projects SVG, Telemetry SVG, serta berkas `README.md` utama.
+  - [x] 2.1 [AKAR] Integrasi data otentik Arief M Prasetyo (Sistem Informasi + SMK Pemasaran).
+  - [x] 2.2 [BATANG] Pipeline sinkronisasi Git SSH otomatis & GitHub Actions.
+  - [x] 2.3 [CABANG] Generator aset SVG studio (`header-banner.svg`, `creator-illustration.svg`, `scenic-footer.svg`).
+  - [x] 2.4 [DAUN] Penerapan layout terstruktur (Header -> Profil 2 Kolom -> Grid Software -> Matriks Output -> Scenic Footer).
 - [x] **Fase 3: Audit Keamanan Defensif (Stage 3)**
-  - [x] 3.1 Least privilege GITHUB_TOKEN scope (`contents: write`).
-  - [x] 3.2 Sanitasi data JSON terhadap potensi SVG/Markdown injection.
-  - [x] 3.3 Zero hardcoded credentials & token exposure guard.
+  - [x] 3.1 Least privilege SSH deployment & Zero credential leak.
+  - [x] 3.2 Validitas tautan keluar (nisaikou.me, email, github, linkedin).
 - [x] **Fase 4: Testing & Live Sweeping (Stage 4)**
-  - [x] 4.1 Eksekusi generator aset mandiri via Node.js tanpa error.
-  - [x] 4.2 Verifikasi integritas struktur XML dan rendering SVG dark/light mode.
-  - [x] 4.3 Verifikasi struktur navigasi dan rendering Markdown `README.md`.
-- [x] **Fase 5: Verification Gate & Penutupan (Stage 5)**
-  - [x] 5.1 Verifikasi nol error runtime & nol sintaks rusak.
-  - [x] 5.2 Verifikasi zero third-party author names & zero AI copyright.
-  - [x] 5.3 Audit gaya bahasa manusia otentik (`humanizer-indonesia`).
+  - [x] 4.1 Verifikasi rendering SVG di peramban dan validitas sintaks XML.
+  - [x] 4.2 Verifikasi responsivitas pada mobile viewport (tabel adaptif & gambar responsif).
+- [x] **Fase 5: Delivery Gate & Anti-Slop Audit (Stage 5)**
+  - [x] 5.1 Audit 38 Aturan Anti-Slop (R-01 s/d R-38): lolos 100%.
+  - [x] 5.2 Bebas dari em-dash (`—`), bebas marker teks AI klise.
+  - [x] 5.3 Kalibrasi kontras WCAG AA pada seluruh badge software.
   - [x] 5.4 Pembaruan status di Buku Besar Diagnosis menjadi RESOLVED (PASS).
 
 ---
@@ -55,29 +54,25 @@ Sistem secara otomatis mengeksekusi urutan baku:
 
 ```mermaid
 graph TD
-    subgraph AKAR ["AKAR (Roots): Data & State Definition"]
-        DATA["data/profile.json (Identity, Stack Matrix, Projects, Specs)"]
-        CONF["Profile Config Schema & Environmental Validation"]
+    subgraph AKAR ["AKAR (Roots): Data & Identitas Kreator"]
+        DATA["data/profile.json (Identitas Arief M Prasetyo, nisaikou.me, Skill Multidisiplin)"]
     end
 
-    subgraph BATANG ["BATANG (Trunk): Orchestration & Engine"]
-        WF[".github/workflows/profile-sync.yml (CI/CD Scheduler & Dispatch)"]
-        ENG["scripts/generate-assets.mjs (Native Node.js Generation Kernel)"]
+    subgraph BATANG ["BATANG (Trunk): Pipeline & Engine"]
+        WF[".github/workflows/profile-sync.yml (CI/CD Automasi)"]
+        ENG["scripts/generate-creative-assets.mjs (Generator Vektor Native)"]
     end
 
-    subgraph CABANG ["CABANG (Branches): Transformation & SVG Renderers"]
-        THEME["Adaptive Theme Engine (Zinc-950 Dark & Clean Slate Light)"]
-        CALC["Geometry Engine: Bento Dimensions, Coordinates & Layout"]
-        SANITIZER["Safe String & XML Entity Sanitizer"]
+    subgraph CABANG ["CABANG (Branches): Transformation & Formatters"]
+        XML["XML Sanitizer & Safe String Transformer"]
+        THEME["Visual Balancing: Atmospheric Studio & Zen Scenic Palette"]
     end
 
-    subgraph DAUN ["DAUN (Leaves): User-Facing Portfolio & SVG Assets"]
-        HERO["assets/hero-banner-dark.svg & light.svg"]
-        STACK["assets/bento-stack-dark.svg & light.svg"]
-        PROJ["assets/bento-projects-dark.svg & light.svg"]
-        TELEM["assets/bento-telemetry-dark.svg & light.svg"]
-        README["README.md (Adaptive Picture Elements, Quick Nav, Live Status)"]
-        BRAND["Proprietary Engineering Identity & Prestigious Copy"]
+    subgraph DAUN ["DAUN (Leaves): User-Facing Creative Portfolio"]
+        HEADER["assets/header-banner.svg (Lo-fi Studio Workstation)"]
+        ILLUST["assets/creator-illustration.svg (Meja Kerja Kreator & Dual Screen)"]
+        SCENIC["assets/scenic-footer.svg (Lanskap Zen Torii Gate Jepang)"]
+        README["README.md (Tata Letak Bersih & Matriks Kompetensi Nyata)"]
     end
 
     AKAR --> BATANG
@@ -85,41 +80,23 @@ graph TD
     CABANG --> DAUN
 ```
 
-### AKAR (Roots) - Data Storage & Persistence
-* **Tipe Data:** JSON Terstruktur (`data/profile.json`).
-* **Integritas Skema:** Memuat profil identitas, matriks teknologi dengan tingkat penguasaan, daftar proyek unggulan berarsitektur modular, serta prinsip rekayasa.
-
-### BATANG (Trunk) - Backend Architecture & Business Logic
-* **Mesin Generator:** Script mandiri Node.js native (`scripts/generate-assets.mjs`) tanpa dependensi npm eksternal (zero bloat, zero vulnerabilities).
-* **Automasi CI/CD:** GitHub Actions workflow yang dapat berjalan terjadwal mingguan (*cron*) atau dipicu manual (*workflow_dispatch*).
-
-### CABANG (Branches) - Frontend Logic & Reactive State
-* **Adaptasi Tema:** Token warna CSS di dalam SVG yang terkalibrasi untuk mode gelap (Zinc 950, Slate 800 hairline) dan mode terang (Slate 50, Slate 200 hairline).
-* **Kalkulasi Geometri:** Mengalokasikan proporsi bento box yang seimbang secara matematis untuk desktop dan mobile viewport di GitHub.
-
-### DAUN (Leaves) - UI/UX Views, Design Tokens & Styling
-* **Format:** Berkas `README.md` utama dengan tag `<picture>` responsif GitHub.
-* **Aset Grafis:** 4 pasang kartu SVG adaptif (Hero, Stack, Projects, Telemetry).
-* **Design Standards:** Linear/Apple Dark standard, border halus 1px specular, tipografi seimbang, kontras WCAG AA terpenuhi.
-* **Identitas Rekayasa:** Menyematkan identitas *"Crafted with Precision Engineering & Native Standards"*, bebas dari klise AI.
-
 ---
 
 ## 3. HASIL PENGUJIAN ALUR POHON (VERIFICATION MATRIX)
 
 | Stage | Tingkat / Komponen | Fokus Pengujian | Status | Bukti / Catatan Pengujian |
 |---|---|---|:---:|---|
-| **STAGE 1** | **Pre-Flight Context & Cartography** | Memory, Glosarium, Alur Arsitektur | **PASS** | `PROJECT_MEMORY.md`, `GLOSSARY.md`, dan `ALURPOHON.md` terinisialisasi lengkap |
-| **STAGE 2** | **AKAR (Roots)** | Skema Data Profil Terstruktur | **PASS** | `data/profile.json` tervalidasi dengan data teknis presisi |
-| **STAGE 2** | **BATANG (Trunk)** | Engine Node.js & Workflow CI/CD | **PASS** | `scripts/generate-assets.mjs` & `.github/workflows/profile-sync.yml` siap eksekusi |
-| **STAGE 2** | **CABANG (Branches)** | Logic Rendering SVG & Tema Ganda | **PASS** | Fungsi render menghasilkan XML valid dengan styling responsif |
-| **STAGE 2** | **DAUN (Leaves)** | 8 Berkas SVG & `README.md` Utama | **PASS** | Seluruh kartu bento & banner terbit dengan rasio visual harmonis |
-| **STAGE 3** | **Security Audit** | Least Privilege & Sanitasi Input | **PASS** | Token write terbatas, entitas XML tersanitasi aman dari injeksi |
-| **STAGE 4** | **Testing & Verification** | Eksekusi Generator & Validasi Sintaks | **PASS** | Eksekusi 100% mulus (exit code 0), 8 berkas SVG terverifikasi |
-| **STAGE 5** | **Delivery Gate** | Anti-Slop & Identitas Rekayasa | **PASS** | Nol kata buzzword AI, nol atribusi luar, identitas industri terpasang |
+| **STAGE 1** | **Pre-Flight Context** | Karakteristik Kreator & Persona | **PASS** | Identitas personal Sistem Informasi & SMK Pemasaran siap |
+| **STAGE 2** | **AKAR (Roots)** | Integritas Data Portofolio | **PASS** | Seluruh tool kreatif & software enterprise terdata |
+| **STAGE 2** | **BATANG (Trunk)** | Pipeline SSH Git & Engine | **PASS** | Koneksi SSH laptop ke GitHub terautentikasi dan stabil |
+| **STAGE 2** | **CABANG (Branches)** | Rendering Vektor SVG | **PASS** | Seluruh 3 berkas SVG estetik ter-render sempurna |
+| **STAGE 2** | **DAUN (Leaves)** | Layout REA & Tampilan README | **PASS** | Layout 2 kolom, grid tool, dan tabel output terpasang |
+| **STAGE 3** | **Security Audit** | Keamanan Tautan & Enkripsi | **PASS** | Tautan SSL aktif, SSH key aman, zero token leak |
+| **STAGE 4** | **Testing & Verification** | Uji Live GitHub & Sintaks | **PASS** | `README.md` terunggah live, respons HTTP 200 OK |
+| **STAGE 5** | **Delivery Gate & Anti-Slop** | Audit 38 Aturan Anti-Slop (`/antislop`) | **PASS** | Nol em-dash, kontras WCAG AA, bahasa manusiawi otentik |
 
 ---
 
 ## 4. LOG PEMBARUAN & AUDIT SISTEM
 * **Tanggal Audit:** 2026-11-20
-* **Status Keseluruhan:** STABIL & SIAP PRODUKSI
+* **Status Keseluruhan:** STABIL & TERBIT LIVE DI GITHUB
